@@ -1,0 +1,50 @@
+object Frame1: TFrame1
+  Left = 0
+  Height = 247
+  Top = 0
+  Width = 320
+  ClientHeight = 247
+  ClientWidth = 320
+  ParentFont = False
+  TabOrder = 0
+  DesignLeft = 1579
+  DesignTop = 312
+  object Label1: TLabel
+    Left = 0
+    Height = 15
+    Top = 0
+    Width = 320
+    Align = alTop
+    Caption = 'This is a Frame created at runtime'
+    Color = 16764315
+    ParentColor = False
+    Transparent = False
+  end
+  object Label2: TLabel
+    Left = 48
+    Height = 15
+    Top = 24
+    Width = 34
+    Caption = 'Label2'
+    ParentColor = False
+  end
+  object Label3: TLabel
+    Left = 48
+    Height = 15
+    Top = 54
+    Width = 34
+    Caption = 'Label3'
+    ParentColor = False
+  end
+  object Memo1: TMemo
+    Left = 104
+    Height = 215
+    Top = 24
+    Width = 210
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    Lines.Strings = (
+      'Memo.Anchors: [akTop,akLeft,akRight,akBottom]'
+    )
+    TabOrder = 0
+  end
+end
