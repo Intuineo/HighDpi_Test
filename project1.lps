@@ -21,7 +21,6 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit1"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <CursorPos Y="37"/>
         <UsageCount Value="27"/>
@@ -49,7 +48,6 @@
         <TopLine Value="8729"/>
         <CursorPos X="89" Y="8761"/>
         <UsageCount Value="11"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\..\..\..\Libraries\Fast-Report\FastReport-v2022-2-10\FastReport VCL Professional\Source\frxClass.pas"/>
@@ -114,11 +112,10 @@
       </Unit>
       <Unit>
         <Filename Value="C:\lazarus64\lcl\include\customdesigncontrol.inc"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="38"/>
         <CursorPos Y="54"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\..\..\..\Libraries\TRichView\TRichView_20\TRichView\Source\RichView.pas"/>
@@ -144,11 +141,10 @@
       </Unit>
       <Unit>
         <Filename Value="C:\lazarus64\lcl\include\customframe.inc"/>
-        <EditorIndex Value="5"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="194"/>
         <CursorPos Y="210"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="C:\lazarus64\lcl\controls.pp"/>
@@ -174,11 +170,10 @@
       </Unit>
       <Unit>
         <Filename Value="C:\lazarus64\lcl\include\customform.inc"/>
-        <EditorIndex Value="4"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="65"/>
         <CursorPos Y="84"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="C:\lazarus64\lcl\include\custompanel.inc"/>
@@ -209,11 +204,10 @@
       </Unit>
       <Unit>
         <Filename Value="C:\lazarus64\lcl\include\wincontrol.inc"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="3869"/>
         <CursorPos Y="3875"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="C:\lazarus64\components\virtualtreeview\laz.virtualtrees.pas"/>
@@ -222,55 +216,29 @@
         <TopLine Value="123"/>
         <UsageCount Value="10"/>
       </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\virtualtreeview\laz.virtualtrees.pas"/>
+        <UnitName Value="laz.VirtualTrees"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="24747"/>
+        <CursorPos X="40" Y="24761"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
     </Units>
-    <JumpHistory HistoryIndex="11">
+    <JumpHistory HistoryIndex="2">
       <Position>
         <Filename Value="unit2.pas"/>
         <Caret Line="16" Column="40"/>
       </Position>
       <Position>
-        <Filename Value="C:\lazarus64\lcl\include\customdesigncontrol.inc"/>
-        <Caret Line="16"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus64\lcl\include\customframe.inc"/>
-        <Caret Line="210" TopLine="194"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus64\lcl\include\customdesigncontrol.inc"/>
-        <Caret Line="16"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus64\lcl\include\customform.inc"/>
-        <Caret Line="81" TopLine="65"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus64\lcl\include\customform.inc"/>
-        <Caret Line="82" TopLine="65"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus64\lcl\include\customform.inc"/>
-        <Caret Line="83" TopLine="65"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus64\lcl\include\customform.inc"/>
-        <Caret Line="85" TopLine="65"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus64\lcl\include\customform.inc"/>
-        <Caret Line="84" TopLine="65"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus64\lcl\include\customdesigncontrol.inc"/>
-        <Caret Line="28" TopLine="2"/>
-      </Position>
-      <Position>
-        <Filename Value="C:\lazarus64\lcl\include\wincontrol.inc"/>
-        <Caret Line="3875" TopLine="3869"/>
-      </Position>
-      <Position>
         <Filename Value="unit2.pas"/>
         <Caret Line="16" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="37"/>
       </Position>
     </JumpHistory>
     <RunParams>

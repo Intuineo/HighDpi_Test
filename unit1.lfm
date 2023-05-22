@@ -1,26 +1,28 @@
 object Form1: TForm1
   Left = 1579
-  Height = 458
+  Height = 916
   Top = 312
-  Width = 686
+  Width = 1372
   Caption = 'Form1'
-  ClientHeight = 458
-  ClientWidth = 686
+  ClientHeight = 916
+  ClientWidth = 1372
+  DesignTimePPI = 192
   OnCreate = FormCreate
+  LCLVersion = '2.2.6.0'
   object Panel1: TPanel
     Left = 0
-    Height = 52
+    Height = 104
     Top = 0
-    Width = 686
+    Width = 1372
     Align = alTop
     Caption = 'This is panel on Main Form'
     TabOrder = 0
   end
   object Panel2: TPanel
     Left = 0
-    Height = 406
-    Top = 52
-    Width = 686
+    Height = 812
+    Top = 104
+    Width = 1372
     Align = alClient
     BevelOuter = bvSpace
     Caption = 'This is a panel (Frame.Parent)'
