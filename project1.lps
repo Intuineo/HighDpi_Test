@@ -256,6 +256,12 @@
         <CursorPos X="3" Y="815"/>
         <UsageCount Value="10"/>
       </Unit>
+      <Unit>
+        <Filename Value="unit2.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
     </Units>
     <JumpHistory HistoryIndex="4">
       <Position>
