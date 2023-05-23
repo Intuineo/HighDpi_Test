@@ -1,20 +1,19 @@
 object Frame1: TFrame1
   Left = 0
-  Height = 494
+  Height = 247
   Top = 0
-  Width = 640
-  ClientHeight = 494
-  ClientWidth = 640
-  DesignTimePPI = 192
+  Width = 320
+  ClientHeight = 247
+  ClientWidth = 320
   ParentFont = False
   TabOrder = 0
   DesignLeft = 1816
   DesignTop = 356
   object Label1: TLabel
     Left = 0
-    Height = 32
+    Height = 15
     Top = 0
-    Width = 640
+    Width = 320
     Align = alTop
     Caption = 'This is a Frame created at runtime'
     Color = 16764315
@@ -22,19 +21,19 @@ object Frame1: TFrame1
     Transparent = False
   end
   object Label2: TLabel
-    Left = 88
-    Height = 32
-    Top = 56
-    Width = 69
+    Left = 44
+    Height = 16
+    Top = 28
+    Width = 34
     AutoSize = False
     Caption = 'Label2'
     ParentColor = False
   end
   object Label3: TLabel
-    Left = 88
-    Height = 32
-    Top = 112
-    Width = 69
+    Left = 44
+    Height = 15
+    Top = 55
+    Width = 34
     Caption = 'Label3'
     ParentColor = False
   end
@@ -46,15 +45,15 @@ object Frame1: TFrame1
     AnchorSideRight.Side = asrBottom
     AnchorSideBottom.Control = Owner
     AnchorSideBottom.Side = asrBottom
-    Left = 200
-    Height = 432
-    Top = 52
-    Width = 430
+    Left = 100
+    Height = 217
+    Top = 25
+    Width = 215
     Anchors = [akTop, akLeft, akRight, akBottom]
-    BorderSpacing.Left = 200
-    BorderSpacing.Top = 20
-    BorderSpacing.Right = 10
-    BorderSpacing.Bottom = 10
+    BorderSpacing.Left = 100
+    BorderSpacing.Top = 10
+    BorderSpacing.Right = 5
+    BorderSpacing.Bottom = 5
     Lines.Strings = (
       'Memo.Anchors: [akTop,akLeft,akRight,akBottom]'
     )
