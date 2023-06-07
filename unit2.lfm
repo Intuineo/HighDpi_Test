@@ -1,10 +1,10 @@
 object Frame1: TFrame1
   Left = 0
-  Height = 247
+  Height = 275
   Top = 0
-  Width = 320
-  ClientHeight = 247
-  ClientWidth = 320
+  Width = 352
+  ClientHeight = 275
+  ClientWidth = 352
   ParentFont = False
   TabOrder = 0
   DesignLeft = 1410
@@ -17,7 +17,7 @@ object Frame1: TFrame1
     Left = 0
     Height = 15
     Top = 0
-    Width = 320
+    Width = 352
     Anchors = [akTop, akLeft, akRight]
     Caption = 'This is a Frame created at runtime'
     Color = 16764315
@@ -53,9 +53,9 @@ object Frame1: TFrame1
     AnchorSideBottom.Control = Owner
     AnchorSideBottom.Side = asrBottom
     Left = 100
-    Height = 217
+    Height = 245
     Top = 25
-    Width = 215
+    Width = 247
     Anchors = [akTop, akLeft, akRight, akBottom]
     BorderSpacing.Left = 100
     BorderSpacing.Top = 10
